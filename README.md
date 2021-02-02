@@ -1,2 +1,2 @@
-Leif was here
-Leif and Kevin were here (know your grammar)
+Leif was here and
+Leif and Kevin were here and
