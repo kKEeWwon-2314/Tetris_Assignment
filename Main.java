@@ -13,6 +13,10 @@ public class Main {
         System.out.println("Hi");
     }
 
+    public static void kKEeWwon2314() {
+        System.out.println("AHHHHHHHHHHHHHHH 🤩🤩🤩🤩🤩");
+    }
+    
     public static void MsMiaMethod() {
         System.out.println("Ms. Mia was here 🦜");
     }
