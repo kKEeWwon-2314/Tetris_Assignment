@@ -1,2 +1,1 @@
-Leif was here and
-Leif and Kevin were here and
+TEN KINDS OF PEOPLE ARE BROKEN
